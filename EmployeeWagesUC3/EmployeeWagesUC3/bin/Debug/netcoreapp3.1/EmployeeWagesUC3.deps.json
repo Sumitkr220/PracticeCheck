@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EmployeeWagesUC3/1.0.0": {
+        "runtime": {
+          "EmployeeWagesUC3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmployeeWagesUC3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

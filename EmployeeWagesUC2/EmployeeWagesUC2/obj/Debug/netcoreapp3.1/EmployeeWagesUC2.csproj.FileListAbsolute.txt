@@ -1,0 +1,13 @@
+C:\Users\sumit\source\repos\EmployeeWagesUC2\EmployeeWagesUC2\bin\Debug\netcoreapp3.1\EmployeeWagesUC2.exe
+C:\Users\sumit\source\repos\EmployeeWagesUC2\EmployeeWagesUC2\bin\Debug\netcoreapp3.1\EmployeeWagesUC2.deps.json
+C:\Users\sumit\source\repos\EmployeeWagesUC2\EmployeeWagesUC2\bin\Debug\netcoreapp3.1\EmployeeWagesUC2.runtimeconfig.json
+C:\Users\sumit\source\repos\EmployeeWagesUC2\EmployeeWagesUC2\bin\Debug\netcoreapp3.1\EmployeeWagesUC2.runtimeconfig.dev.json
+C:\Users\sumit\source\repos\EmployeeWagesUC2\EmployeeWagesUC2\bin\Debug\netcoreapp3.1\EmployeeWagesUC2.dll
+C:\Users\sumit\source\repos\EmployeeWagesUC2\EmployeeWagesUC2\bin\Debug\netcoreapp3.1\EmployeeWagesUC2.pdb
+C:\Users\sumit\source\repos\EmployeeWagesUC2\EmployeeWagesUC2\obj\Debug\netcoreapp3.1\EmployeeWagesUC2.csprojAssemblyReference.cache
+C:\Users\sumit\source\repos\EmployeeWagesUC2\EmployeeWagesUC2\obj\Debug\netcoreapp3.1\EmployeeWagesUC2.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\EmployeeWagesUC2\EmployeeWagesUC2\obj\Debug\netcoreapp3.1\EmployeeWagesUC2.AssemblyInfo.cs
+C:\Users\sumit\source\repos\EmployeeWagesUC2\EmployeeWagesUC2\obj\Debug\netcoreapp3.1\EmployeeWagesUC2.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\EmployeeWagesUC2\EmployeeWagesUC2\obj\Debug\netcoreapp3.1\EmployeeWagesUC2.dll
+C:\Users\sumit\source\repos\EmployeeWagesUC2\EmployeeWagesUC2\obj\Debug\netcoreapp3.1\EmployeeWagesUC2.pdb
+C:\Users\sumit\source\repos\EmployeeWagesUC2\EmployeeWagesUC2\obj\Debug\netcoreapp3.1\EmployeeWagesUC2.genruntimeconfig.cache
